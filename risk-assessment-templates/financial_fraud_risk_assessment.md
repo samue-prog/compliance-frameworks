@@ -15,3 +15,4 @@
 - **Impact:** 1 (Negligible) to 5 (Catastrophic)
 - **Likelihood:** 1 (Rare) to 5 (Almost Certain)
 - **Risk Score:** Impact x Likelihood
+- **Prepared By:** Moturi Sam
